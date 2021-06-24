@@ -1,0 +1,16 @@
+C:\Users\william.craft\Desktop\Personal information\Personal Growth\Mini-Code-Projects\C#-ProjectFolder\Random_Joke\obj\Debug\net5.0\Random_Joke.csprojAssemblyReference.cache
+C:\Users\william.craft\Desktop\Personal information\Personal Growth\Mini-Code-Projects\C#-ProjectFolder\Random_Joke\obj\Debug\net5.0\Random_Joke.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\william.craft\Desktop\Personal information\Personal Growth\Mini-Code-Projects\C#-ProjectFolder\Random_Joke\obj\Debug\net5.0\Random_Joke.AssemblyInfoInputs.cache
+C:\Users\william.craft\Desktop\Personal information\Personal Growth\Mini-Code-Projects\C#-ProjectFolder\Random_Joke\obj\Debug\net5.0\Random_Joke.AssemblyInfo.cs
+C:\Users\william.craft\Desktop\Personal information\Personal Growth\Mini-Code-Projects\C#-ProjectFolder\Random_Joke\obj\Debug\net5.0\Random_Joke.csproj.CoreCompileInputs.cache
+C:\Users\william.craft\Desktop\Personal information\Personal Growth\Mini-Code-Projects\C#-ProjectFolder\Random_Joke\bin\Debug\net5.0\Random_Joke.exe
+C:\Users\william.craft\Desktop\Personal information\Personal Growth\Mini-Code-Projects\C#-ProjectFolder\Random_Joke\bin\Debug\net5.0\Random_Joke.deps.json
+C:\Users\william.craft\Desktop\Personal information\Personal Growth\Mini-Code-Projects\C#-ProjectFolder\Random_Joke\bin\Debug\net5.0\Random_Joke.runtimeconfig.json
+C:\Users\william.craft\Desktop\Personal information\Personal Growth\Mini-Code-Projects\C#-ProjectFolder\Random_Joke\bin\Debug\net5.0\Random_Joke.runtimeconfig.dev.json
+C:\Users\william.craft\Desktop\Personal information\Personal Growth\Mini-Code-Projects\C#-ProjectFolder\Random_Joke\bin\Debug\net5.0\Random_Joke.dll
+C:\Users\william.craft\Desktop\Personal information\Personal Growth\Mini-Code-Projects\C#-ProjectFolder\Random_Joke\bin\Debug\net5.0\ref\Random_Joke.dll
+C:\Users\william.craft\Desktop\Personal information\Personal Growth\Mini-Code-Projects\C#-ProjectFolder\Random_Joke\bin\Debug\net5.0\Random_Joke.pdb
+C:\Users\william.craft\Desktop\Personal information\Personal Growth\Mini-Code-Projects\C#-ProjectFolder\Random_Joke\obj\Debug\net5.0\Random_Joke.dll
+C:\Users\william.craft\Desktop\Personal information\Personal Growth\Mini-Code-Projects\C#-ProjectFolder\Random_Joke\obj\Debug\net5.0\ref\Random_Joke.dll
+C:\Users\william.craft\Desktop\Personal information\Personal Growth\Mini-Code-Projects\C#-ProjectFolder\Random_Joke\obj\Debug\net5.0\Random_Joke.pdb
+C:\Users\william.craft\Desktop\Personal information\Personal Growth\Mini-Code-Projects\C#-ProjectFolder\Random_Joke\obj\Debug\net5.0\Random_Joke.genruntimeconfig.cache
